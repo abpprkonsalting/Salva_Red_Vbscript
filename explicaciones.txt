@@ -1,0 +1,5 @@
+Para que funcione el script deben existir las siguientes condiciones previas:
+
+1- En el servidor central deberá haber una carpeta compartida (SalvServer) con acceso total a un usuario determinado (Usuario + Clave).
+2- Los datos a salvar deberán estar contenidos dentro de una carpeta (Origen).
+3- En la carpeta del script deberá haber un archivo settings.txt con los parámetros anteriores, junto con otros.

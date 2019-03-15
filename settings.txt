@@ -1,0 +1,22 @@
+'***************************************************************************************************************************************
+'Nota: Todo lo que se vaya a escribir en el espacio antes de los parámetros deberá estar comentariado con apostrofe
+'
+'Este archivo suministra los siguientes parámetros en correcto orden para su lectura:
+'
+'Servidor: 		Dirección del servidor donde se hace la salva
+'Carpeta_Salva: 	La carpeta compartida en el servidor donde se hará la salva
+'Usuario: 		El nombre de usuario con que se accede a la carpeta compartida
+'Clave: 		La clave para acceder a la carpeta compartida
+'DriveSalva: 		La unidad a la que se va a conectar la carpeta compartida
+'Origen: 		El camino completo de la carpeta de trabajo que se va a salvar
+'Tiempo: 		El tiempo en mseg entre salva y salva
+'
+'***************************************************************************************************************************************
+
+sms-fs01
+Salvas\Armando
+Administrator
+SM*adm2008
+z:
+D:\Trabajo
+10000
